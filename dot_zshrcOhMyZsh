@@ -76,6 +76,11 @@ autojump
 zoxide
 fzf
 fzf-tab
+zsh-completions
+history-substring-search
+docker-compose
+nx-completion
+kubectl
 )
 
 source $ZSH/oh-my-zsh.sh
