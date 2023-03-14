@@ -1,0 +1,29 @@
+[Added Associations]
+image/jpeg=viewnior.desktop;gpicview.desktop;
+image/png=viewnior.desktop;gpicview.desktop;
+text/plain=mousepad.desktop;org.gnome.gedit.desktop;
+x-scheme-handler/mailto=userapp-Thunderbird.desktop;
+message/rfc822=userapp-Thunderbird.desktop;
+application/pdf=epdfview.desktop;
+application/x-bittorrent=deluge.desktop;
+
+[Default Applications]
+text/plain=org.gnome.gedit.desktop
+x-scheme-handler/mailto=userapp-Thunderbird.desktop
+message/rfc822=userapp-Thunderbird.desktop
+application/x-bittorrent=deluge.desktop
+x-scheme-handler/https=google-chrome.desktop
+application/rdf+xml=google-chrome.desktop
+application/xhtml+xml=google-chrome.desktop
+application/pdf=google-chrome.desktop
+application/xml=google-chrome.desktop
+application/rss+xml=google-chrome.desktop
+image/gif=google-chrome.desktop
+image/png=google-chrome.desktop
+text/html=google-chrome.desktop
+image/jpeg=google-chrome.desktop
+image/webp=google-chrome.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/eclipse+command=_usr_lib_dbeaver_.desktop
+x-scheme-handler/postman=Postman.desktop
+x-scheme-handler/webcal=google-chrome.desktop
